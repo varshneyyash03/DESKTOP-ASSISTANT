@@ -23,6 +23,6 @@ This project builds a voice-enabled desktop assistant using Python that can inte
 •	Search any website It can search any website on browser using webbroswer.
 
 
-****To Run this project firstly we have to instll multiple libraires**
+****To Run this project firstly we have to install multiple libraires**
 
 pyttsx3,pyaudio,speech_recognition,pyjokes,pywhatkit,pyautogui,google.generative.ai
