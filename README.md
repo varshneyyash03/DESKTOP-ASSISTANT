@@ -18,9 +18,9 @@ This project builds a voice-enabled desktop assistant using Python that can inte
 
 •	Personalized Assistant Naming: Saves and recalls a custom assistant name.
 
-•	Custom Fallback: Uses the Gemini API to handle unrecognized commands intelligently
+•	Custom Fallback: Uses the Gemini API to handle unrecognized commands intelligently.
 
-•	Search any website It can search any website on browser using webbroswer.
+•	Search any website: It can search any website on browser using webbroswer.
 
 
 ****To Run this project firstly we have to install multiple libraires**
