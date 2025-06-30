@@ -179,7 +179,7 @@ if __name__ == "__main__":
             break
         
         elif "open" in query:
-            #open any website if u use search before it
+            #open any website if u use (open) before it
             a=query.replace("open","")
             b=a +".com"
             wb.open(b)
